@@ -16,7 +16,8 @@
     "url": "https://github.com/olgapiatrovich/js-tasks/issues"
   },
   "homepage": "https://github.com/olgapiatrovich/js-tasks#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "fs-extra": "^10.0.0"
   }
 }

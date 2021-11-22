@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/olgapiatrovich/js-tasks/issues"
   },
-  "homepage": "https://github.com/olgapiatrovich/js-tasks#readme"
+  "homepage": "https://github.com/olgapiatrovich/js-tasks#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
 }

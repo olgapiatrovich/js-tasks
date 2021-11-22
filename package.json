@@ -1,0 +1,23 @@
+{
+  "name": "nodetask",
+  "version": "1.0.0",
+  "description": "NodeJS task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgapiatrovich/js-tasks.git"
+  },
+  "author": "Olga Petrovich <o.ptrvch@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgapiatrovich/js-tasks/issues"
+  },
+  "homepage": "https://github.com/olgapiatrovich/js-tasks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
